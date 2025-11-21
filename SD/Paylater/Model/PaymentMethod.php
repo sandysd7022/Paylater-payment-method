@@ -1,8 +1,8 @@
 <?php
 /**
  * @category  Paylater
- * @package   SixtySeven_Paylater
- * @author    Developer SixtySeven
+ * @package   SD_Paylater
+ * @author    Developer SD
  */
 
 namespace SixtySeven\Paylater\Model;
@@ -18,3 +18,4 @@ class PaymentMethod extends \Magento\Payment\Model\Method\AbstractMethod
 	*/
 	protected $_code = 'paylater';
 }
+
