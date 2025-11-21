@@ -1,8 +1,8 @@
 <?php
 /**
  * @category  Paylater
- * @package   SixtySeven_Paylater
- * @author    Developer SixtySeven
+ * @package   SD_Paylater
+ * @author    Developer SD
  */
 namespace SixtySeven\Paylater\Observer;
 
@@ -34,3 +34,4 @@ class PaymentMethodDisable implements ObserverInterface
         }
     }
 }
+
